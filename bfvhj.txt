@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+again 80%
+=======
+hello 50%
+done 100%
+>>>>>>> Stashed changes
